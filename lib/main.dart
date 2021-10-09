@@ -35,7 +35,7 @@ class _MyApp extends State<MyApp> {
                 onPressed: () {
                   if (test == 'hello') {
                     setState(() {
-                      test = 'flutter';
+                      test = 'fluttere';
                       _color = Colors.amber;
                     });
                   } else {
